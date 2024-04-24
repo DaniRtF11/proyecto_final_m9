@@ -8,6 +8,9 @@ function Menu() {
     <div className="py-4 w-full grid-cols-1 ">
       <ul className="flex justify-center todasOpciones">
         <li className="menuOpcion">
+          <a href='#' className='font-semibold'>NOTICIAS</a>
+        </li>
+        <li className="menuOpcion">
           <a href="#" className="font-semibold">EQUIPOS</a>
         </li>
         <li className="menuOpcion">
